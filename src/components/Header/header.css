@@ -1,0 +1,29 @@
+.header {
+  box-shadow: -3px -9px 17px -6px rgba(0, 0, 0, 0.75);
+}
+
+.header img {
+  max-width: 150px;
+}
+
+.header ul li::after {
+  content: '';
+  width: 3px;
+  height: 86%;
+  position: absolute;
+  right: 0;
+  top: 2px;
+  background: var(--color-primary-alt);
+}
+.header ul li:last-child::after {
+  display: none;
+}
+.header ul li a,
+.header ul li button,
+.header ul li p {
+  color: var(--color-primary-alt);
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}

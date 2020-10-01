@@ -1,0 +1,24 @@
+.about_img {
+  background: url('../../assets/images//hotels/hotel_about.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 50%;
+}
+.about_hotel_dis {
+  background: var(--color-bg-alt);
+}
+.about_hotel_dis h2{
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 38px;
+  line-height: 1.2;
+  letter-spacing: 3px;
+}
+
+.about_hotel_dis p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.10rem;
+  letter-spacing: 0.80px;
+  font-weight: normal;
+  line-height: 1.85;
+}

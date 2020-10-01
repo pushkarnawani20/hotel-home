@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,600;1,400&display=swap');
+
+.service_img {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 50%;
+}
+.service_disc {
+  background: var(--color-bg);
+}
+.service_disc h3 {
+  font-family: 'Bebas Nue',sans-serif;
+  font-size: 23px;
+  letter-spacing: 2.5px;
+}
+
+.service_disc h3::after {
+  content: '';
+  position: absolute;
+  width: 2px;
+  background: var(--color-primary-alt);
+  left: 50%;
+  height: 30%;
+  bottom: 26px;
+  filter: contrast(0.65);
+}
+
+.service_disc p{
+  font-size: 1.10rem;
+  letter-spacing: 0.85px;
+  line-height: 2;
+  font-family: 'Poppins', sans-serif;
+  color: #333030;
+}
+
+.service_disc a {
+  font-family: 'Bebas Nue', sans-serif;
+  font-size: 1.10rem;
+  text-transform: uppercase;
+  color: var(--color-primary-alt);
+  font-weight: bold;
+  letter-spacing: 0.55px;
+}

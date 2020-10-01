@@ -1,0 +1,114 @@
+{
+  "data": {
+    "events": [
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Birthday Party",
+        "imageUrl": "events/bday-event.jpg",
+        "pagelink": "events/events-checkout",
+        "btnText": "Get A Quote",
+        "description": "Insane birthday parties need the best birthday party planners. Be it with best friends, or with family, people tend to find one excuse or the other for a birthday party. We are offering the best birthday party planners to make your day Special, to make your party standout. Surprising your loved ones with creative birthday party games and great birthday party decorations has never been easier. Since we have best birthday party planners with us, we assure you the best."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Social Event",
+        "imageUrl": "events/social-event.jpg",
+        "pagelink": "events/events-checkout",
+        "btnText": "Get A Quote",
+        "description": "Each event is unique and the services required greatly vary depending on the level of service in which you are interested. We offer Venue & Vendor Recommendations, Design & Decor, Theme Development, Invitation Design & Selection, RSVP Management, Layout Creation, ​Menu Selection, Full Service Planning, Day-of Setup & Coordination And More!. Therefore, an exact quote cannot be given until a ​consultation has been completed."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "CORPORATE PARTY",
+        "imageUrl": "events/corporate-event.jpg",
+        "pagelink": "events/events-checkout",
+        "btnText": "Get A Quote",
+        "description": "No corporate event is too small or too big for us. Be it an event for 20 pax or for 6000 pax, we ensure the same quality throughout. We constantly strive to keep ourselves updated with the latest technology in order to provide innovative events for our clients. From conceptualization of your event to completion, which includes managing venues, suppliers, logistics, multilingual hostesses, technical support and more, We will create a unique, motivating and unforgettable experience for your company and guests."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Wedding Ceremony",
+        "imageUrl": "events/wedding-event.jpg",
+        "pagelink": "events/events-checkout",
+        "btnText": "Get A Quote",
+        "description": "Weddings are sacred acts surrounded by material hoopla. Getting married!! So, worried about the venue, supplies, planning and management of your wedding? Do not disturb yourself with such worries. We understand that you have little spare time available for managing your own wedding. We are here to take care of such things and ensure that your wedding is well-organised and memorable. You just need to focus on your big day and enjoy every single moment to the fullest."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Cocktail Party",
+        "imageUrl": "events/cocktail-event.jpg",
+        "pagelink": "events/events-checkout",
+        "btnText": "Get A Quote",
+        "description": "Life is all about celebrations! And if you are planning to celebrate your success, life or achievement with your near ones by throwing a cocktail party. let us make it a complete success with our quality service. Arranging or organising a cocktail party needs proper planning and management. contact us for cocktail parties and We will ensure that everything goes smoothly while you focus on socializing and exchanging chit-chat with your invitees or guests."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Anniversary Celebration",
+        "imageUrl": "events/anniversary-event.jpg",
+        "pagelink": "events/events-checkout",
+        "btnText": "Get A Quote",
+        "description": "Whether you’re planning a ten-year anniversary party for your friends or planning a diamond wedding anniversary party for your parents, throwing an anniversary party is a great way to honor a couple’s time spent together. Anniversary parties not only help the couple cherish their marriage, but also allow loved ones a chance to let the couple know how much their union has influenced those around them. Throwing an anniversary party may seem complicated but do not worry we will take care of all of the important things and make the day unforgetable."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Special Occasions",
+        "imageUrl": "events/special-event.jpg",
+        "pagelink": "events/events-checkout",
+        "btnText": "Get A Quote",
+        "description": "Special occasions deserve celebrating, whether it’s a major milestone or a personal achievement. From Baby shower to impressive promotions, you deserve to celebrate in style! and We are here to take care of all the things from A to Z so you can focus of enjoying your Special Occasion."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Bachelor Party",
+        "imageUrl": "events/bachelor-event.jpg",
+        "pagelink": "events/events-checkout",
+        "btnText": "Get A Quote",
+        "description": "Seeking for Best Bachelorette Party Planner? Then drop all your worries regarding this Bachelor Party and get ready to party hard on this remarkable day of yours. As we, are highly acclaimed as Bachelor Party Planner. We would love to be your helping hand in organizing this special day for you and your squad to enjoy the final glory as a Bachelor."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "House Party",
+        "imageUrl": "events/house-event.jpg",
+        "pagelink": "events/events-checkout",
+        "btnText": "Get A Quote",
+        "description": "House parties mean chilling with your loved ones with all your quality time. We have the list of the best house party event planner, who can make your house party memorable with excellent home decoration, DJ and yummy food within your budget. Our house party event planner do for you, right from managing the party to providing all the basic facilities so you can just focus on enjoying and leave rest to US."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Catering Services",
+        "imageUrl": "events/Catering-event.png",
+        "pagelink": "events/events-checkout",
+        "btnText": "Get A Quote",
+        "description": "We aren't just high end caterers. We create experiences worth remembering all your life. From giving you the wedding of your dreams, to providing simple corporate lunches, we can customize the entire food experience for you and your guests. We take pride in providing an unforgettable experience to your taste buds, presenting our food in the most innovative manner and service that remain unmatched in the industry. Embassy Catering services has all the expertise to make your function a grand success and sweep you off your feet! It truly is an experience our customers never forget."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Live Bar",
+        "imageUrl": "events/liveBar-event.jpg",
+        "pagelink": "events/events-checkout",
+        "btnText": "Get A Quote",
+        "description": "Every Party requires a Bar Counter, so you and your guest can enjoy one of the best Cocktails and make your evening unforgetable. We have of the best Bar Chefs that makes yummy cocktails and provide best in class services so just give us a call and we'll surely add chill to your party."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Live Chef",
+        "imageUrl": "events/liveChef.jpg",
+        "pagelink": "events/events-checkout",
+        "btnText": "Get A Quote",
+        "description": "We are your one stop source for Best dining experiences in your home or at Parties. Select your favourite Chef from one of best chef in the world and they will join to make your day special and tasty when you will try their signature dishes. Your chef can provide you with : Fine in home dining for special events for couples and groups or Whatever your dining mind can imagine. Give us A Try..."
+      }
+    ]
+  }
+}

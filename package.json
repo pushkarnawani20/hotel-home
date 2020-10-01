@@ -1,0 +1,88 @@
+{
+  "name": "hotel-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": false,
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack -p --mode production",
+    "start": "node server.js",
+    "dev": "webpack-dev-server -p --mode development",
+    "lint": "eslint -c .eslintrc.js --ignore-path .eslintignore 'src/**/*.{js,jsx,ts,tsx}'",
+    "prettier": "prettier --write src/**/*.{js,jsx,ts,tsx}"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.3",
+    "@babel/core": "^7.8.3",
+    "@babel/plugin-transform-typescript": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "@babel/preset-react": "^7.8.3",
+    "@types/jest": "^24.0.25",
+    "@types/node": "^13.1.6",
+    "@types/react": "^16.9.17",
+    "@types/react-dom": "^16.9.4",
+    "@types/react-redux": "^7.1.9",
+    "@types/react-router-dom": "^5.1.5",
+    "@typescript-eslint/eslint-plugin": "^2.16.0",
+    "@typescript-eslint/parser": "^2.16.0",
+    "autoprefixer": "^9.8.5",
+    "babel-loader": "^8.0.6",
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^3.4.2",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-loader": "^3.0.3",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "file-loader": "^6.1.0",
+    "html-webpack-plugin": "^4.4.1",
+    "husky": "^4.2.5",
+    "img-optimize-loader": "^1.0.7",
+    "lint-staged": "^10.2.11",
+    "postcss-cli": "^7.1.1",
+    "postcss-loader": "^3.0.0",
+    "prettier": "^1.19.1",
+    "source-map-loader": "^0.2.4",
+    "style-loader": "^1.1.2",
+    "terser-webpack-plugin": "^4.2.1",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.4",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.8.3",
+    "@types/react-helmet": "^6.0.0",
+    "axios": "^0.19.2",
+    "core-js": "^3.6.4",
+    "express": "^4.17.1",
+    "multiselect-react-dropdown": "^1.5.7",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.1.0",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-slick": "^0.27.1",
+    "react-toastify": "^6.0.8",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "tailwindcss": "^1.4.6"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/*.{js,jsx,ts,tsx}": [
+      "yarn prettier --write",
+      "yarn lint --fix"
+    ]
+  }
+}

@@ -1,0 +1,521 @@
+{
+  "data": {
+    "VU": [
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Food@Home",
+        "imageUrl": "restaurant/resurant-1.jpg",
+        "pagelink": "restaurants",
+        "btnText": "Select Restaurant",
+        "description": "At Vortex, we wish to offer our personal rendition of Nordic gourmet cuisine with an innovative gastronomic take on traditional cooking methods, fine Nordic produce and the legacy of our shared food heritage. Moreover, we regard it as a personal challenge to help bring about a revival of Nordic cuisine and let its distinctive flavours and particular regional character brighten up the world."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Spa@Home",
+        "imageUrl": "spa/spa-1.jpg",
+        "pagelink": "spa",
+        "btnText": "Book Now",
+        "description": "The instinct to retreat, to escape, is one often ignored. At Vortex, it’s encouraged; expressed through tranquil spa retreats surrounded by natural beauty and pampering treatments drawing from ancient traditions and modern science"
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Chef@Home",
+        "imageUrl": "chefs/chef-1.jpg",
+        "pagelink": "chef",
+        "btnText": "Request Now",
+        "description": "Get best Chef from the town at your Home on Request for your special Day (events, parties and many more..). Taste the best food made in front of you with touch of chef's greatness."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Laundry@Home",
+        "imageUrl": "laundry/laundry-1.jpg",
+        "pagelink": "laundry",
+        "btnText": "Book Now",
+        "description": "At Vortex, we are building India's first organized chain of laundry and home cleaning stores, focused on fostering the DIY (Do It Yourself) culture. With technology at the heart of the brand, We also enables the time crunched customers to avail pick-n-drop service from the comforts of their Home."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Events@Home",
+        "imageUrl": "events/event-1.jpg",
+        "pagelink": "events",
+        "btnText": "Check Events",
+        "description": "We are dedicated to providing our customers with a wide assortment of event management services for all sorts of corporate and personal events. Be it live shows, celebrity events, entertainment events, star nights, product launches, theme parties, wedding events, birthdays, fashion shows, Wedding, and many more..."
+      }
+    ],
+    "CI": [
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Food@Home",
+        "imageUrl": "restaurant/resurant-2.png",
+        "pagelink": "restaurants",
+        "btnText": "Select Restaurant",
+        "description": "At Coastline Resort And Spa, We do the right thing and lead by putting people first. Each and every connection with our team, guests and shareholders is our opportunity to create an experience that FEEDs – Far Exceeds Expectations Daily – and show how much we care."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Spa@Home",
+        "imageUrl": "spa/spa-2.jpg",
+        "pagelink": "spa",
+        "btnText": "Book Now",
+        "description": "The Coastline Resort And Spa offers a dynamic, client centered philosophy, rooted in an awareness of the value of a balanced approach to enhance your lifestyle and give you rewarding experiences time and again. Our team of expert practitioners know that a skilful healing touch, nurturing environment, cleansing, exercise, yoga, massage, good nutrition, and deep relaxation are the essential elements in maintaining wellness in body, mind and soul."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Chef@Home",
+        "imageUrl": "chefs/chef-2.jpg",
+        "pagelink": "chef",
+        "btnText": "Request Now",
+        "description": "Get best Chef from the town at your Home on Request for your special Day (events, parties and many more..). Taste the best food made in front of you with touch of chef's greatness."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Laundry@Home",
+        "imageUrl": "laundry/laundry-2.jpg",
+        "pagelink": "laundry",
+        "btnText": "Book Now",
+        "description": "The Coastline Resort And Spa provides premium washing and dry cleaning service leveraging mobile based technology. We pick up your dirty duds from your doorstep and deliver fresh, clean clothes back at your doorstep."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Events@Home",
+        "imageUrl": "events/event-2.jpg",
+        "pagelink": "events",
+        "btnText": "Check Events",
+        "description": "We are dedicated to providing our customers with a wide assortment of event management services for all sorts of corporate and personal events. Be it live shows, celebrity events, entertainment events, star nights, product launches, theme parties, wedding events, birthdays, fashion shows, Wedding, and many more..."
+      }
+    ],
+    "IU": [
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Food@Home",
+        "imageUrl": "restaurant/resurant-3.jpg",
+        "pagelink": "restaurants",
+        "btnText": "Select Restaurant",
+        "description": "At Imperial London, Everything we do is about you. From chefs who create exciting new flavors, to crew members who know exactly how you want your drink – we prioritize what you need to get you on your way. We strive to keep you at your best, and we remain loyal to you, your tastes and your time. That’s what America runs on."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Spa@Home",
+        "imageUrl": "spa/spa-3.jpg",
+        "pagelink": "spa",
+        "btnText": "Book Now",
+        "description": "At Imperial London, The signature services include body rituals, scrubs, wraps, facial, skin, hair and salon services. Our treatments are a blend of various wellness philosophies like Ayurveda, Yoga, Indonesian, Thai & European."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Chef@Home",
+        "imageUrl": "chefs/chef-3.jpg",
+        "pagelink": "chef",
+        "btnText": "Request Now",
+        "description": "Get best Chef from the town at your Home on Request for your special Day (events, parties and many more..). Taste the best food made in front of you with touch of chef's greatness."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Laundry@Home",
+        "imageUrl": "laundry/laundry-3.jpg",
+        "pagelink": "laundry",
+        "btnText": "Book Now",
+        "description": "We are at Imperial London, focused on providing 100% transparent premium fabric care, cleaning process. With technology at the heart of the brand, We also enables the time crunched customer to avail pick-n-drop service from the comforts of their home."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Events@Home",
+        "imageUrl": "events/event-3.jpg",
+        "pagelink": "events",
+        "btnText": "Check Events",
+        "description": "We are dedicated to providing our customers with a wide assortment of event management services for all sorts of corporate and personal events. Be it live shows, celebrity events, entertainment events, star nights, product launches, theme parties, wedding events, birthdays, fashion shows, Wedding, and many more..."
+      }
+    ],
+    "IR": [
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Food@Home",
+        "imageUrl": "restaurant/resurant-4.jpg",
+        "pagelink": "restaurants",
+        "btnText": "Select Restaurant",
+        "description": "At Iceberg Palace, we wish to offer our personal rendition of Nordic gourmet cuisine with an innovative gastronomic take on traditional cooking methods, fine Nordic produce and the legacy of our shared food heritage. Moreover, we regard it as a personal challenge to help bring about a revival of Nordic cuisine and let its distinctive flavours and particular regional character brighten up the world."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Spa@Home",
+        "imageUrl": "spa/spa-4.jpg",
+        "pagelink": "spa",
+        "btnText": "Book Now",
+        "description": "The instinct to retreat, to escape, is one often ignored. At Iceberg Palace, it’s encouraged, expressed through tranquil spa retreats surrounded by natural beauty and pampering treatments drawing from ancient traditions and modern science."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Chef@Home",
+        "imageUrl": "chefs/chef-4.jpg",
+        "pagelink": "chef",
+        "btnText": "Request Now",
+        "description": "Get best Chef from the town at your Home on Request for your special Day (events, parties and many more..). Taste the best food made in front of you with touch of chef's greatness."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Laundry@Home",
+        "imageUrl": "laundry/laundry-4.jpg",
+        "pagelink": "laundry",
+        "btnText": "Book Now",
+        "description": "At Iceberg Palace, we are building India's first organized chain of laundry and home cleaning stores, focused on fostering the DIY (Do It Yourself) culture. With technology at the heart of the brand, UClean also enables the time crunched customers to avail pick-n- drop service from the comforts of their Home.        "
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Events@Home",
+        "imageUrl": "events/event-4.jpg",
+        "pagelink": "events",
+        "btnText": "Check Events",
+        "description": "We are dedicated to providing our customers with a wide assortment of event management services for all sorts of corporate and personal events. Be it live shows, celebrity events, entertainment events, star nights, product launches, theme parties, wedding events, birthdays, fashion shows, Wedding, and many more..."
+      }
+    ],
+    "DA": [
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Food@Home",
+        "imageUrl": "restaurant/resurant-5.jpg",
+        "pagelink": "restaurants",
+        "btnText": "Select Restaurant",
+        "description": "At Darling Harbour, We do the right thing and lead by putting people first. Each and every connection with our team, guests and shareholders is our opportunity to create an experience that FEEDs – Far Exceeds Expectations Daily – and show how much we care."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Spa@Home",
+        "imageUrl": "spa/spa-5.jpg",
+        "pagelink": "spa",
+        "btnText": "Book Now",
+        "description": "The Darling Harbour offers a dynamic, client centered philosophy, rooted in an awareness of the value of a balanced approach to enhance your lifestyle and give you rewarding experiences time and again. Our team of expert practitioners know that a skilful healing touch, nurturing environment, cleansing, exercise, yoga, massage, good nutrition, and deep relaxation are the essential elements in maintaining wellness in body, mind and soul."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Chef@Home",
+        "imageUrl": "chefs/chef-5.jpg",
+        "pagelink": "chef",
+        "btnText": "Request Now",
+        "description": "Get best Chef from the town at your Home on Request for your special Day (events, parties and many more..). Taste the best food made in front of you with touch of chef's greatness."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Laundry@Home",
+        "imageUrl": "laundry/laundry-5.jpg",
+        "pagelink": "laundry",
+        "btnText": "Book Now",
+        "description": "Sydney Darling Harbour provides premium washing and dry cleaning service leveraging mobile based technology. We pick up your dirty duds from your doorstep and deliver fresh, clean clothes back at your doorstep."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Events@Home",
+        "imageUrl": "events/event-5.png",
+        "pagelink": "events",
+        "btnText": "Check Events",
+        "description": "We are dedicated to providing our customers with a wide assortment of event management services for all sorts of corporate and personal events. Be it live shows, celebrity events, entertainment events, star nights, product launches, theme parties, wedding events, birthdays, fashion shows, Wedding, and many more..."
+      }
+    ],
+    "RU": [
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Food@Home",
+        "imageUrl": "restaurant/resurant-6.jpg",
+        "pagelink": "restaurants",
+        "btnText": "Select Restaurant",
+        "description": "At Retro Cosmopolitan, Everything we do is about you. From chefs who create exciting new flavors, to crew members who know exactly how you want your drink – we prioritize what you need to get you on your way. We strive to keep you at your best, and we remain loyal to you, your tastes and your time. That’s what America runs on."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Spa@Home",
+        "imageUrl": "spa/spa-6.jpg",
+        "pagelink": "spa",
+        "btnText": "Book Now",
+        "description": "At Retro Cosmopolitan, The signature services include body rituals, scrubs, wraps, facial, skin, hair and salon services. Our treatments are a blend of various wellness philosophies like Ayurveda, Yoga, Indonesian, Thai & European."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Chef@Home",
+        "imageUrl": "chefs/chef-6.png",
+        "pagelink": "chef",
+        "btnText": "Request Now",
+        "description": "Get best Chef from the town at your Home on Request for your special Day (events, parties and many more..). Taste the best food made in front of you with touch of chef's greatness."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Laundry@Home",
+        "imageUrl": "laundry/laundry-6.jpg",
+        "pagelink": "laundry",
+        "btnText": "Book Now",
+        "description": "We are at Grand Cosmopolitan, focused on providing 100% transparent premium fabric care, cleaning process. With technology at the heart of the brand, We also enables the time crunched customer to avail pick-n-drop service from the comforts of their home.        "
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Events@Home",
+        "imageUrl": "events/event-6.jpg",
+        "pagelink": "events",
+        "btnText": "Check Events",
+        "description": "We are dedicated to providing our customers with a wide assortment of event management services for all sorts of corporate and personal events. Be it live shows, celebrity events, entertainment events, star nights, product launches, theme parties, wedding events, birthdays, fashion shows, Wedding, and many more..."
+      }
+    ],
+    "SU": [
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Food@Home",
+        "imageUrl": "restaurant/resurant-7.jpg",
+        "pagelink": "restaurants",
+        "btnText": "Select Restaurant",
+        "description": "At Skirvin, we wish to offer our personal rendition of Nordic gourmet cuisine with an innovative gastronomic take on traditional cooking methods, fine Nordic produce and the legacy of our shared food heritage. Moreover, we regard it as a personal challenge to help bring about a revival of Nordic cuisine and let its distinctive flavours and particular regional character brighten up the world."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Spa@Home",
+        "imageUrl": "spa/spa-7.jpg",
+        "pagelink": "spa",
+        "btnText": "Book Now",
+        "description": "The instinct to retreat, to escape, is one often ignored. At Skirvin, it’s encouraged; expressed through tranquil spa retreats surrounded by natural beauty and pampering treatments drawing from ancient traditions and modern science."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Chef@Home",
+        "imageUrl": "chefs/chef-7.jpg",
+        "pagelink": "chef",
+        "btnText": "Request Now",
+        "description": "Get best Chef from the town at your Home on Request for your special Day (events, parties and many more..). Taste the best food made in front of you with touch of chef's greatness."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Laundry@Home",
+        "imageUrl": "laundry/laundry-7.jpg",
+        "pagelink": "laundry",
+        "btnText": "Book Now",
+        "description": "At Skirvin, we are building India's first organized chain of laundry and home cleaning stores, focused on fostering the DIY (Do It Yourself) culture. With technology at the heart of the brand, We enables the time crunched customers to avail pick-n-drop service from the comforts of their Home."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Events@Home",
+        "imageUrl": "events/event-7.jpg",
+        "pagelink": "events",
+        "btnText": "Check Events",
+        "description": "We are dedicated to providing our customers with a wide assortment of event management services for all sorts of corporate and personal events. Be it live shows, celebrity events, entertainment events, star nights, product launches, theme parties, wedding events, birthdays, fashion shows, Wedding, and many more..."
+      }
+    ],
+    "CU": [
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Food@Home",
+        "imageUrl": "restaurant/resurant-8.jpg",
+        "pagelink": "restaurants",
+        "btnText": "Select Restaurant",
+        "description": "At Courtyard, We do the right thing and lead by putting people first. Each and every connection with our team, guests and shareholders is our opportunity to create an experience that FEEDs – Far Exceeds Expectations Daily – and show how much we care."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Spa@Home",
+        "imageUrl": "spa/spa-8.jpg",
+        "pagelink": "spa",
+        "btnText": "Book Now",
+        "description": "The Courtyard offers a dynamic, client centered philosophy, rooted in an awareness of the value of a balanced approach to enhance your lifestyle and give you rewarding experiences time and again. Our team of expert practitioners know that a skilful healing touch, nurturing environment, cleansing, exercise, yoga, massage, good nutrition, and deep relaxation are the essential elements in maintaining wellness in body, mind and soul.        "
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Chef@Home",
+        "imageUrl": "chefs/chef-8.jpg",
+        "pagelink": "chef",
+        "btnText": "Request Now",
+        "description": "Get best Chef from the town at your Home on Request for your special Day (events, parties and many more..). Taste the best food made in front of you with touch of chef's greatness."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Laundry@Home",
+        "imageUrl": "laundry/laundry-8.jpg",
+        "pagelink": "laundry",
+        "btnText": "Book Now",
+        "description": "Courtyard provides premium washing and dry cleaning service leveraging mobile based technology. We pick up your dirty duds from your doorstep and deliver fresh, clean clothes back at your doorstep."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Events@Home",
+        "imageUrl": "events/event-8.jpg",
+        "pagelink": "events",
+        "btnText": "Check Events",
+        "description": "We are dedicated to providing our customers with a wide assortment of event management services for all sorts of corporate and personal events. Be it live shows, celebrity events, entertainment events, star nights, product launches, theme parties, wedding events, birthdays, fashion shows, Wedding, and many more..."
+      }
+    ],
+    "WI": [
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Food@Home",
+        "imageUrl": "restaurant/resurant-9.jpg",
+        "pagelink": "restaurants",
+        "btnText": "Select Restaurant",
+        "description": "At Wonderland, Everything we do is about you. From chefs who create exciting new flavors, to crew members who know exactly how you want your drink – we prioritize what you need to get you on your way. We strive to keep you at your best, and we remain loyal to you, your tastes and your time. That’s what India runs on."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Spa@Home",
+        "imageUrl": "spa/spa-9.jpg",
+        "pagelink": "spa",
+        "btnText": "Book Now",
+        "description": "The Wonderland offers a dynamic, client centered philosophy, rooted in an awareness of the value of a balanced approach to enhance your lifestyle and give you rewarding experiences time and again. Our team of expert practitioners know that a skilful healing touch, nurturing environment, cleansing, exercise, yoga, massage, good nutrition, and deep relaxation are the essential elements in maintaining wellness in body, mind and soul.        "
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Chef@Home",
+        "imageUrl": "chefs/chef-9.jpg",
+        "pagelink": "chef",
+        "btnText": "Request Now",
+        "description": "Get best Chef from the town at your Home on Request for your special Day (events, parties and many more..). Taste the best food made in front of you with touch of chef's greatness."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Laundry@Home",
+        "imageUrl": "laundry/laundry-9.png",
+        "pagelink": "laundry",
+        "btnText": "Book Now",
+        "description": "We are at Wonderland Resort & Spa Goa, focused on providing 100% transparent premium fabric care, cleaning process. With technology at the heart of the brand, We enable the time crunched customer to avail pick-n-drop service from the comforts of their home."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Events@Home",
+        "imageUrl": "events/event-9.jpg",
+        "pagelink": "events",
+        "btnText": "Check Events",
+        "description": "We are dedicated to providing our customers with a wide assortment of event management services for all sorts of corporate and personal events. Be it live shows, celebrity events, entertainment events, star nights, product launches, theme parties, wedding events, birthdays, fashion shows, Wedding, and many more..."
+      }
+    ],
+    "TI": [
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Food@Home",
+        "imageUrl": "restaurant/resurant-10.jpg",
+        "pagelink": "restaurants",
+        "btnText": "Select Restaurant",
+        "description": "At Twin Star, we wish to offer our personal rendition of Nordic gourmet cuisine with an innovative gastronomic take on traditional cooking methods, fine Nordic produce and the legacy of our shared food heritage. Moreover, we regard it as a personal challenge to help bring about a revival of Nordic cuisine and let its distinctive flavours and particular regional character brighten up the world."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Spa@Home",
+        "imageUrl": "spa/spa-10.jpg",
+        "pagelink": "spa",
+        "btnText": "Book Now",
+        "description": "At The Twin Star, The signature services include body rituals, scrubs, wraps, facial, skin, hair and salon services. Our treatments are a blend of various wellness philosophies like Ayurveda, Yoga, Indonesian, Thai & European."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Chef@Home",
+        "imageUrl": "chefs/chef-10.jpg",
+        "pagelink": "chef",
+        "btnText": "Request Now",
+        "description": "Get best Chef from the town at your Home on Request for your special Day (events, parties and many more..). Taste the best food made in front of you with touch of chef's greatness."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Laundry@Home",
+        "imageUrl": "laundry/laundry-10.jpg",
+        "pagelink": "laundry",
+        "btnText": "Book Now",
+        "description": "At The Twin Star Mumbai, Airport, we are building India's first organized chain of laundry and home cleaning stores, focused on fostering the DIY (Do It Yourself) culture. With technology at the heart of the brand, We enable the time crunched customers to avail pick-n- drop service from the comforts of their Home.        "
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Events@Home",
+        "imageUrl": "events/event-10.jpg",
+        "pagelink": "events",
+        "btnText": "Check Events",
+        "description": "We are dedicated to providing our customers with a wide assortment of event management services for all sorts of corporate and personal events. Be it live shows, celebrity events, entertainment events, star nights, product launches, theme parties, wedding events, birthdays, fashion shows, Wedding, and many more..."
+      }
+    ],
+    "HI": [
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Food@Home",
+        "imageUrl": "restaurant/resurant-1.jpg",
+        "pagelink": "restaurants",
+        "btnText": "Select Restaurant",
+        "description": "At Harborview, We do the right thing and lead by putting people first. Each and every connection with our team, guests and shareholders is our opportunity to create an experience that FEEDs – Far Exceeds Expectations Daily – and show how much we care."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Spa@Home",
+        "imageUrl": "spa/spa-11.jpg",
+        "pagelink": "spa",
+        "btnText": "Book Now",
+        "description": "The instinct to retreat, to escape, is one often ignored. At Harborview, it’s encouraged; expressed through tranquil spa retreats surrounded by natural beauty and pampering treatments drawing from ancient traditions and modern science."
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Chef@Home",
+        "imageUrl": "chefs/chef-11.jpg",
+        "pagelink": "chef",
+        "btnText": "Request Now",
+        "description": "Get best Chef from the town at your Home on Request for your special Day (events, parties and many more..). Taste the best food made in front of you with touch of chef's greatness."
+      },
+      {
+        "imageAlign": 0,
+        "contentAlign": 1,
+        "heading": "Laundry@Home",
+        "imageUrl": "laundry/laundry-11.jpg",
+        "pagelink": "laundry",
+        "btnText": "Book Now",
+        "description": "Harborview provides premium washing and dry cleaning service leveraging mobile based technology. We pick up your dirty duds from your doorstep and deliver fresh, clean clothes back at your doorstep.        "
+      },
+      {
+        "imageAlign": 1,
+        "contentAlign": 0,
+        "heading": "Events@Home",
+        "imageUrl": "events/event-11.jpg",
+        "pagelink": "events",
+        "btnText": "Check Events",
+        "description": "We are dedicated to providing our customers with a wide assortment of event management services for all sorts of corporate and personal events. Be it live shows, celebrity events, entertainment events, star nights, product launches, theme parties, wedding events, birthdays, fashion shows, Wedding, and many more..."
+      }
+    ]
+  }
+}

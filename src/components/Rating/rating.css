@@ -1,0 +1,6 @@
+.star {
+  color: var(--color-info);
+}
+.star.selected {
+  color: #ffa600;
+}
