@@ -1,1 +1,1 @@
-export const API_END_POINT = 'https://inovation-api.herokuapp.com/api/v1/';
+export const API_END_POINT = 'https://hotel-my-api.herokuapp.com/';
