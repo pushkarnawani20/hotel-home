@@ -1,17 +1,17 @@
-import React, { useState, useEffect, useMemo } from 'react';
-import { useSelector } from 'react-redux';
-import PageTitle from '../components/PageTitle/page-title';
-import Header from '../components/Header/header';
-import Footer from '../components/Footer/footer';
-import SearchBox from '../components/SearchBox/search-box';
-import SearchResult from '../components/SearchResultBox/search-result';
-import NoSearchWrap from '../components/NoSearchResWrap/no-search-res';
-import { ApplicationState, Hotels } from '../lib/appTypes/types';
+import React, { useState, useEffect, useMemo } from "react";
+import { useSelector } from "react-redux";
+import PageTitle from "../components/PageTitle/page-title";
+import Header from "../components/Header/header";
+import Footer from "../components/Footer/footer";
+import SearchBox from "../components/SearchBox/search-box";
+import SearchResult from "../components/SearchResultBox/search-result";
+import NoSearchWrap from "../components/NoSearchResWrap/no-search-res";
+import { ApplicationState, Hotels } from "../lib/appTypes/types";
 
 const Home = () => {
   const { hotelsData } = useSelector((state: ApplicationState) => state.hotels);
-  const [userVal, setUserVal] = useState('');
-  const [searchTerm, setSearchTerm] = useState('');
+  const [userVal, setUserVal] = useState("");
+  const [searchTerm, setSearchTerm] = useState("");
   const [searchResults, setSearchResults] = useState<Hotels[]>([]);
 
   const filterResults = () => {
@@ -22,11 +22,11 @@ const Home = () => {
             hotel.hotelName.toLowerCase().includes(searchTerm.toLowerCase())) ||
           hotel.hotelCity.toLowerCase().includes(searchTerm.toLowerCase()) ||
           hotel.hotelCountry.toLowerCase().includes(searchTerm.toLowerCase()) ||
-          hotel.propCode.toLowerCase().includes(searchTerm.toLowerCase()),
+          hotel.propCode.toLowerCase().includes(searchTerm.toLowerCase())
       )
       .sort((a, b) => {
-        const firstName = a.hotelName ? a.hotelName.toUpperCase() : '';
-        const secondName = b.hotelName ? b.hotelName.toUpperCase() : '';
+        const firstName = a.hotelName ? a.hotelName.toUpperCase() : "";
+        const secondName = b.hotelName ? b.hotelName.toUpperCase() : "";
         if (firstName < secondName) {
           return 1;
         }
@@ -74,18 +74,18 @@ const Home = () => {
   };
 
   useEffect(() => {
-    window.addEventListener('keydown', handleKeyPress);
+    window.addEventListener("keydown", handleKeyPress);
     return () => {
-      window.removeEventListener('keydown', handleKeyPress);
+      window.removeEventListener("keydown", handleKeyPress);
     };
   }, [handleKeyPress]);
 
   useEffect(() => {
     if (hotelsData && hotelsData.length > 0 && searchTerm) {
       filterResults();
-      const elem = document.getElementById('mainWrap') as HTMLElement;
+      const elem = document.getElementById("mainWrap") as HTMLElement;
       if (elem) {
-        elem.scrollIntoView({ behavior: 'smooth', block: 'end' });
+        elem.scrollIntoView({ behavior: "smooth", block: "end" });
       }
     }
   }, [searchTerm]);
@@ -131,7 +131,7 @@ const Home = () => {
             </figure>
             <figure className="home-gallery__item gallery__item2">
               <img
-                src={require(`../assets/images/home/hotel-innov-laundry-2.jpg`)}
+                src={require("../assets/images/home/hotel-innov-laundry-2.jpg")}
                 alt="Gallery 2"
                 className="gallery__img"
               />
@@ -152,7 +152,7 @@ const Home = () => {
             </figure>
             <figure className="home-gallery__item gallery__item5">
               <img
-                src={require(`../assets/images/home/hotel-innov-bar-1.jpg`)}
+                src={require("../assets/images/home/hotel-innov-bar-1.jpg")}
                 alt="Gallery 5"
                 className="gallery__img"
               />
