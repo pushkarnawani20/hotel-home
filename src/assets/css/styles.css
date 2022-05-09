@@ -58,8 +58,8 @@ body {
   --color-text-inverse: #ffffff;
   --color-outline-shadow: rgba(0, 156, 222, 0.3);
 
-  --font-sans: 'ProximaNovaW01';
-  --font-headline: 'Loew W00 Heavy';
+  --font-sans: "ProximaNovaW01";
+  --font-headline: "Loew W00 Heavy";
 
   --animation-pulse: empty-pulse 1.5s cubic-bezier(0.23, 1, 0.32, 1) infinite;
 }
@@ -93,17 +93,19 @@ a {
 .sign-in-up-container {
   width: 100%;
   height: 100vh;
-  background: url('../images/hotels/Taj-1.jpg');
+  background: url("../images/hotels/Taj-1.jpg");
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 
 .sign-in-up-container::after {
-  content: '';
+  content: "";
   background: rgb(17 23 37 / 66%);
   top: 0;
   left: 0;
-  @apply absolute w-full h-full;
+  @apply absolute;
+  @apply w-full;
+  @apply h-full;
 }
 
 .form-conatiner {
@@ -124,14 +126,14 @@ a {
   border-radius: 5px 0 0 5px;
   outline: none;
   flex: 1;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 18px;
-  color:#535358;
+  color: #535358;
 }
 
 .searchTerm::placeholder {
   color: #535358;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 18px;
 }
 
@@ -155,7 +157,7 @@ a {
   text-align: left;
   font-size: 1.5rem;
   line-height: 1.125;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   color: #535358;
 }
@@ -228,7 +230,7 @@ a {
 .top-sec > h1 {
   font-size: 40px;
   line-height: 1.2;
-  font-family: 'Bebas Neue', sans-serif;
+  font-family: "Bebas Neue", sans-serif;
   /* color: #fbfbfb; */
   color: #f7fafc;
   letter-spacing: 10px;
@@ -257,7 +259,7 @@ footer {
 }
 
 .address_section ul li::after {
-  content: '';
+  content: "";
   @apply absolute;
   width: 2px;
   background: var(--color-bg-inverse);
@@ -284,17 +286,17 @@ footer {
   font-size: 0.9rem;
   letter-spacing: 0.65px;
   line-height: 1.75;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .best_service_section .slick-slide p > strong,
 .card.service_card p > strong {
-  font-family: 'Bebas Nue', sans-serif;
+  font-family: "Bebas Nue", sans-serif;
 }
 
 .service_section > h3,
 .best_service_section > h3 {
-  font-family: 'Bebas Nue', cursive, sans-serif;
+  font-family: "Bebas Nue", cursive, sans-serif;
   font-size: 26px;
   letter-spacing: 0.85px;
 }
@@ -322,7 +324,7 @@ footer {
 }
 
 .card_image::after {
-  content: '';
+  content: "";
   position: absolute;
   height: 100%;
   width: calc(100% + 1px);
@@ -349,7 +351,7 @@ footer {
   font-size: 0.9rem;
   letter-spacing: 0.65px;
   line-height: 1.75;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 #root .best_service_section .slick-dots li button::before {
@@ -428,7 +430,7 @@ footer {
 }
 
 .confirmation h2 span:last-child {
-  font-family: 'Bebas Nue', sans-serif;
+  font-family: "Bebas Nue", sans-serif;
   text-transform: uppercase;
   color: #535358;
   letter-spacing: 2px;
@@ -436,7 +438,7 @@ footer {
 }
 
 .confirmation h3 {
-  font-family: 'Bebas Nue', sans-serif;
+  font-family: "Bebas Nue", sans-serif;
   font-style: italic;
   letter-spacing: 2px;
   font-size: 44px;
@@ -444,14 +446,14 @@ footer {
 
 .confirmation p {
   font-size: 20px;
-  font-family: 'Poppins';
+  font-family: "Poppins";
   line-height: 1.5;
   letter-spacing: 2px;
 }
 
-.confirmation a{
+.confirmation a {
   text-transform: capitalize;
-  font-family: 'Bebas Nue';
+  font-family: "Bebas Nue";
   font-size: 22px;
 }
 
@@ -468,14 +470,14 @@ footer {
 }
 
 .card-content h3 {
-  font-family: 'Bebas Nue', sans-serif;
+  font-family: "Bebas Nue", sans-serif;
   font-size: 1.15rem;
   letter-spacing: 0.85px;
   line-height: 2;
 }
 
 .cta-button {
-  font-family: 'Bebas Nue', sans-serif;
+  font-family: "Bebas Nue", sans-serif;
   font-size: 1.1rem;
   text-transform: uppercase;
   color: var(--color-primary-alt);
@@ -490,7 +492,7 @@ footer {
 }
 
 .mealMenu > h3 {
-  font-family: 'Bebas Nue', cursive, sans-serif;
+  font-family: "Bebas Nue", cursive, sans-serif;
   font-size: 26px;
   @apply relative;
 }
@@ -498,7 +500,7 @@ footer {
 .mealMenu > h3::after,
 .best_service_section > h3 > span::after,
 .service_section > h3 > span::after {
-  content: '';
+  content: "";
   position: absolute;
   width: 80%;
   background: #2150a0;
@@ -513,20 +515,20 @@ footer {
 }
 
 .bannerHead > h2 {
-  font-family: 'Bebas Nue', sans-serif;
+  font-family: "Bebas Nue", sans-serif;
   font-size: 35px;
   letter-spacing: 2px;
 }
 
 .bannerHead > p {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 18px;
   letter-spacing: 0.55px;
   line-height: 1.75;
 }
 
 .read-more-cta {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 1rem;
   font-weight: normal;
   letter-spacing: 0.45px;
@@ -539,13 +541,13 @@ footer {
 }
 
 .background {
-	background: linear-gradient(-45deg, #00b4cc, #719DE9, #23a6d5, #23d5ab);
-	background-size: 400% 400%;
+  background: linear-gradient(-45deg, #00b4cc, #719de9, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
   animation: gradient 15s ease infinite;
   height: 91%;
 }
 
-.home-gallery-container{
+.home-gallery-container {
   width: 50%;
   margin: 1rem auto;
   top: 30%;
@@ -558,64 +560,62 @@ footer {
   right: 5%;
 }
 
-.home-gallery{
-
+.home-gallery {
   grid-template-columns: repeat(8, 1fr);
   grid-template-rows: repeat(5, 5vw);
   grid-gap: 1.5rem;
 }
 
-.gallery__img{
+.gallery__img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  display: block; 
+  display: block;
 }
 
-.gallery__item1{
+.gallery__item1 {
   grid-column-start: 1;
   grid-column-end: 3;
   grid-row-start: 1;
   grid-row-end: 3;
 }
 
-.gallery__item2{
+.gallery__item2 {
   grid-column-start: 3;
   grid-column-end: 5;
   grid-row-start: 1;
   grid-row-end: 3;
 }
 
-.gallery__item3{
+.gallery__item3 {
   grid-column-start: 5;
   grid-column-end: 9;
   grid-row-start: 1;
   grid-row-end: 4;
 }
 
-.gallery__item4{
+.gallery__item4 {
   grid-column-start: 1;
   grid-column-end: 5;
   grid-row-start: 3;
   grid-row-end: 6;
 }
 
-.gallery__item5{
+.gallery__item5 {
   grid-column-start: 5;
   grid-column-end: 7;
   grid-row-start: 4;
   grid-row-end: 6;
 }
 
-.gallery__item6{
+.gallery__item6 {
   grid-column-start: 7;
   grid-column-end: 9;
   grid-row-start: 4;
   grid-row-end: 6;
 }
 
-
-.gallery__item7{
+.gallery__item7 {
   grid-column-start: 5;
   grid-column-end: 9;
   grid-row-start: 6;
@@ -623,13 +623,13 @@ footer {
 }
 
 @keyframes gradient {
-	0% {
-		background-position: 0% 50%;
-	}
-	50% {
-		background-position: 100% 50%;
-	}
-	100% {
-		background-position: 0% 50%;
-	}
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }

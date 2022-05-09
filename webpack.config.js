@@ -30,7 +30,8 @@ const config = {
         ],
       },
       {
-        test: /\.(png|svg|jpg|gif)$/i,
+        //test: /\.(png|svg|jpg|gif)$/i,
+        test: /\.(png|jpe?g|webp|git|svg|jpg|gif)$/i,
         use: [
           {
             loader: 'img-optimize-loader',
